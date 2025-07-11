@@ -1,0 +1,71 @@
+# =============================================
+# ARCHIVOS GENERADOS POR EL SISTEMA/EDITORES
+# =============================================
+# Windows
+Thumbs.db
+.DS_Store  # macOS
+*.tmp
+*.temp
+
+# =============================================
+# PSEINT (Ejercicios)
+# =============================================
+*.psc.bak  # Copias de seguridad de PSeInt
+*.psc.temp  # Archivos temporales
+
+# =============================================
+# C++ (Compilación y ejecutables)
+# =============================================
+# Binarios y objetos
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dll
+
+# Directorios de compilación
+build/
+bin/
+Debug/
+Release/
+
+# =============================================
+# PYTHON (Nuevo)
+# =============================================
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+*.pot
+dist/
+venv/
+env/
+.python-version
+
+# =============================================
+# ENTORNOS DE DESARROLLO
+# =============================================
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# JetBrains (CLion, IntelliJ)
+.idea/
+*.iml
+
+# =============================================
+# DATOS Y ARCHIVOS SENSIBLES
+# =============================================
+*.env
+*.secret
+config.ini
+
+# =============================================
+# DOCUMENTACIÓN GENERADA
+# =============================================
+docs/_build/
+*.pdf
+*.docx
