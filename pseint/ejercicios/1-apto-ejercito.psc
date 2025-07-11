@@ -11,7 +11,7 @@
 //proporciona en el planteamiento los valores mínimos de estas variables para ser apto 
 //Proceso
 
-//print("Análisis de datos con pandas")
+//prueba para el commint 2
 
 Algoritmo AptoEjercito
 	Definir estatura  Como Real
